@@ -1,5 +1,5 @@
 - Hi, I’m Robert 👋 
-- I’m interested in automated market makers (AMMs) 
+- I’m interested in automated market makers (AMMs) and non-pegged stablecoin
 - Reach me at robert@numoen.com or [@robertleifke](https://twitter.com/robertleifke) on twitter
 
 <!---
